@@ -2,7 +2,7 @@
 
 WIP
 
-using mapbox to build this clone. It's still a work in progress and more functionality will be added.
+using mapbox, https://www.mapbox.com/, to build this clone. It's still a work in progress and more functionality will be added https://docs.mapbox.com/mapbox-gl-js/api/
 
 Currently you can:
 1. Allow your current location to center the map at a zoom level of 15
